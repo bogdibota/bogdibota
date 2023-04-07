@@ -1,6 +1,6 @@
 Bogdan Boța
 ===========
-Co-Founder & CTO [@optioffer](https://optioffer.com)
+Co-Founder & CTO [Pineapple Square](https://pineapplesquare.com)
 
 You can find me here
 -----
@@ -8,8 +8,6 @@ You can find me here
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/bogdan-bota/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg" alt="Facebook" />](https://www.facebook.com/bogdibota)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/bogdibota)
-
-If you want to contact me directly, my personal email on the `OptiOffer webpage > Team > Bogdan Bota`.
 
 Stats
 -----
@@ -25,16 +23,25 @@ Tech stuff
 ----------
 
  - 💙 Typescript
+ - 💙 Rust
+ - 💙 Dart
  - 💙 React
- - 💙 GraphQL
  - 💙 Gatsby 
- - 💙 Electron
+ - 💙 Next.js
+ - 💙 GraphQL
+ - 💙 Tauri
+ - 💙 Flutter
  - 💙 k8s
  - 🤮 Cordova
  - 🤮 PHP
  - 🤮 JQuery
 
 Active projects
+---------------
+
+ - [Pineapple Square](https://pineapplesquare.com)
+
+Older projects
 ---------------
 
  - [OptiOffer](https://optioffer.com)
