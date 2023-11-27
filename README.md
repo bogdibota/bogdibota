@@ -1,6 +1,6 @@
 Bogdan Boța
 ===========
-Co-Founder & CTO [Pineapple Square](https://pineapplesquare.com)
+Co-Founder & CTO [Bzispy AI](https://bizspy.ai)
 
 You can find me here
 -----
@@ -39,9 +39,10 @@ Tech stuff
 Active projects
 ---------------
 
- - [Pineapple Square](https://pineapplesquare.com)
+ - [Bzispy AI](https://bizspy.ai)
 
 Older projects
 ---------------
 
  - [OptiOffer](https://optioffer.com)
+ - [Pineapple Square](https://pineapplesquare.com)
