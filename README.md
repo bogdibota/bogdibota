@@ -1,48 +1,39 @@
-Bogdan Boța
-===========
-Co-Founder & CTO [Bzispy AI](https://bizspy.ai)
+# Bogdan Boța
 
-You can find me here
------
+**Engineer @ [FLORA](https://flora.ai)** — your creative environment. Every creative AI tool, one unified process.
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/bogdan-bota/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg" alt="Facebook" />](https://www.facebook.com/bogdibota)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/bogdibota)
+Currently building **[VarynForge](https://www.varynforge.com)** — premium keyword research forged into ready-to-publish content plans. Lean stack, honest pricing, no fake feature gates.
 
-Stats
------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bogdan--bota-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-bota/)
+[![X](https://img.shields.io/badge/X-@bogdibota-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bogdibota)
+[![GitHub followers](https://img.shields.io/github/followers/bogdibota?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/bogdibota)
 
-<a href="https://github.com/robrich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdibota&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/robrich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogdibota&count_private=true&show_icons=true&layout=compact" />
-</a>
+---
 
-Tech stuff
-----------
+## What I'm building
 
- - 💙 Typescript
- - 💙 Rust
- - 💙 Dart
- - 💙 React
- - 💙 Gatsby 
- - 💙 Next.js
- - 💙 GraphQL
- - 💙 Tauri
- - 💙 Flutter
- - 💙 k8s
- - 🤮 Cordova
- - 🤮 PHP
- - 🤮 JQuery
+- **[VarynForge](https://www.varynforge.com)** — SEO keyword research SaaS. Crawls your site, maps your niche, ships intent-clustered content plans your writers can actually execute.
 
-Active projects
----------------
+## Past work
 
- - [Bzispy AI](https://bizspy.ai)
+- **[Bzispy AI](https://bizspy.ai)** — Co-founded; built the platform end-to-end as CTO.
+- **[OptiOffer](https://optioffer.com)** — Quoting and offer management for B2B distributors.
+- **[Pineapple Square](https://pineapplesquare.com)** — Earlier indie project.
 
-Older projects
----------------
+## Tech I reach for
 
- - [OptiOffer](https://optioffer.com)
- - [Pineapple Square](https://pineapplesquare.com)
+- **Daily:** TypeScript · React · Next.js · Node.js · GraphQL · Postgres · Tailwind · Payload CMS
+- **Systems:** Rust · Tauri · Docker · Kubernetes
+- **Mobile / cross-platform:** Flutter · Dart
+- **Tried to avoid this decade:** jQuery · Cordova · PHP
+
+## Activity
+
+[![Bogdan's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=bogdibota&theme=github-compact&hide_border=true&area=true)](https://github.com/bogdibota)
+
+
+---
+
+`bogdan@florafauna.ai`
+`hello@varynforge.com`
+
