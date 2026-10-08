@@ -20,8 +20,17 @@ Both products belong to **Reactive Methods**, the company I run from Romania.
 
 The kill line is written before the test. The evidence is read before the opinion. A number ships with its denominator or it does not ship. Every decision that matters becomes a numbered record, so the company remembers things I would not — and so an agent opening the repo tomorrow does not have to re-derive them.
 
+## Preferred agents
+
+The work is done with agents, and the roles are assigned the way I would staff a team.
+
+- **Fable** for orchestration — holds the whole task, splits it, and decides when it is done.
+- **Opus** for code — writes it.
+- **Astra** for review — reads the diff as if it had not written it.
+
 ## Past work
 
+- **[FLORA](https://flora.ai)** — engineer. The creative environment: every creative AI tool, one unified process.
 - **[Bizspy AI](https://bizspy.ai)** — co-founded; built the platform end to end as CTO.
 - **[OptiOffer](https://optioffer.com)** — quoting and offer management for B2B distributors.
 - **[Pineapple Square](https://pineapplesquare.com)** — an earlier indie project.
