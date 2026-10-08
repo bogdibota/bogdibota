@@ -31,9 +31,9 @@ The work is done with agents, and the roles are assigned the way I would staff a
 ## Past work
 
 - **[FLORA](https://flora.ai)** — engineer. The creative environment: every creative AI tool, one unified process.
-- **[Bizspy AI](https://bizspy.ai)** — co-founded; built the platform end to end as CTO.
-- **[OptiOffer](https://optioffer.com)** — quoting and offer management for B2B distributors.
-- **[Pineapple Square](https://pineapplesquare.com)** — an earlier indie project.
+- **[Bizspy AI](https://bizspy.ai)** — co-founder and CTO; built the platform end to end.
+- **[Pineapple Square](https://pineapplesquare.com)** — co-founder and CTO; a market network for hospitality.
+- **[OptiOffer](https://optioffer.com)** — co-founder and CTO; quoting and offer management for B2B distributors.
 
 ## Tech I reach for
 
